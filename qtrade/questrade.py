@@ -1,5 +1,4 @@
-"""Core module for Questrade API wrapper."""
-# removed
+"""Core module for Questrade API wrapper. - Fork by Yaniv the king"""
 
 import logging
 from typing import Any, Dict, List, Optional, Union
